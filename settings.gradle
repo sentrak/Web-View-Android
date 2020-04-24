@@ -1,0 +1,2 @@
+rootProject.name='GSK31 v2'
+include ':app'
